@@ -18,8 +18,8 @@ Other than that, simply make sure that `fulltrain.csv` and `balancedtest.csv` fi
 
 There are two python notebooks that are uploaded, which have our pre-processing functions as well as the model set up prepared. 
 
-Logistic_regression.ipynb (Logistic regression implementation)
-LSTM.ipynb (LSTM implementation)
+- Logistic_regression.ipynb (Logistic regression implementation)
+- LSTM.ipynb (LSTM implementation)
 
 These notebooks should be run on google colab as we have tested it on.
 
