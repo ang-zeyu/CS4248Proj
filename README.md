@@ -1,6 +1,6 @@
 # CS4248Proj
 
-## Sections 3 of the report (Corpus Analysis/Preprocessing/C)
+## Sections 3 of the report (Corpus Analysis/Preprocessing/Feature Engineering)
 Requirements: To run the notebook on Google Colab, connect Google Drive and place the raw_data into the your root directory
 - Corpus Analysis: The results of corpus analysis can be directly observed from the outputs
 - Preprocessing: Under the section "Preprocessor Class" in "CorpusExploration_Preprocessing_FeatureEngineering.ipynb" we provide instructions on how to preprocess and vectorize data
