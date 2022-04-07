@@ -23,7 +23,8 @@ LSTM.ipynb (LSTM implementation)
 
 These notebooks should be run on google colab as we have tested it on.
 
-Ensure that `fulltrain.csv` and `balancedtest.csv` files are in the user's google drive, and reference the file path in the top few cells in the notebook.
+Ensure that `fulltrain.csv` and `balancedtest.csv` files are in the user's google drive, and reference the notebook variables titled FULLTRAIN_PATH &
+BALANCED_TEST_PATH.
 
 
 
