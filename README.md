@@ -14,10 +14,17 @@ There are 2 types of data collection "scripts" here, which are further annotated
 
 Other than that, simply make sure that `fulltrain.csv` and `balancedtest.csv` files from the dataset are in the same folder as this notebook. (or, you can edit the variables `FULL_TRAIN/TEST_PATH` down below)
 
-## LR
+## Sections 4.5 - 4.7 of the report (Logistic regression & LSTM)
+
+There are two python notebooks that are uploaded, which have our pre-processing functions as well as the model set up prepared. 
+
+Logistic_regression.ipynb (Logistic regression implementation)
+LSTM.ipynb (LSTM implementation)
+
+These notebooks should be run on google colab as we have tested it on.
+
+Ensure that `fulltrain.csv` and `balancedtest.csv` files are in the user's google drive, and reference the file path in the top few cells in the notebook.
 
 
-
-## LSTM
 
 
